@@ -1,3 +1,14 @@
 body{
+
+    background-image: linear-gradient(to right, #217373, white);
+
     
 }
+
+header {
+        background-color: #84B026;
+        margin: 20px 5px;
+        padding: 30px;
+        text-align: center;
+    }
+
